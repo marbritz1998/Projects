@@ -1,0 +1,11 @@
+ABR IMAGERY 2021 EDA
+
+- currently getting the files I needs from TRAVERSE
+
+- SO DETAIL HISTORY VIEW  (in python will fitler transaction date to order MADE in 2021)
+
+- I think I will need another table to get the addresses. ( have done this, it is AR Customer View ALL)
+
+
+So now I will open up SO Detail History View and filter out data and then look at what I did in 2020 and start putting in some work
+

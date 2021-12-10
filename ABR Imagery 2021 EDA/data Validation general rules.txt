@@ -1,0 +1,4 @@
+Data Validation
+ data is correct (contains no inconsistencies or errors)
+ complete (there are no missing fields where a value is required)
+compliant (meets the specifications of data model standards).

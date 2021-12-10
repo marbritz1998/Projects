@@ -1,0 +1,32 @@
+Item ID:			Product Line:
+LIftgatefee			service
+purr-minor kit			PURR
+purr-bravo kit			PURR
+purr-glass pack			PURR
+Purr-Bravo Kit			PURR
+claw11				CLAWS
+jc-3m2fd-ac-4.5			BUSHINGS
+854-203DSK-ADPT			Hoses & Acce
+JC-ST14				Glass Joints
+JC-ST19				Glass Joints
+BB-46-B-BROWNHONEY		Boro Batch
+sun				REMOVE THIS ROW FROM data
+ind-3mc-b2			Glass Joints
+PORTABLECCASE2			CRAFT ITEMS
+0000-BOROBATCH-LOGO-2XL		T-SHIRTS
+crucible30lb			CRUCIBLE
+4-2-INLET-CONVERSIONKIT		Hoses & Acce	
+Crucible-3inchby1.5inch		CRUCIBLE
+BEGINNERKIT-NORTELREDMAX	BEGINNER KIT
+GORO3D				OPALS
+GORO5				OPALS
+GOS6W				OPALS
+VW1-01680			HA TOOLS
+CLAW15				CLAWS	
+TUNGSTEN PICK 1/8		RAKES/PICKS
+JC-1014B			Bushings
+OPAL POLISHED WHITE		OPALS
+BB-03-M-DAVESBLUES		Boro Batch
+854-220k			Hoses & Acce
+ind-14/10f-hw			Glass Joints
+ind-1fc-b2			Glass Joints
