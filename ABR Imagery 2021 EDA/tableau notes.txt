@@ -1,0 +1,21 @@
+- for the Item ID's in the Tableau visualizations,  frieght, sales tax, and sublined items have been filtered out (maybe filter out handling fee?)
+
+- was looking at the item id ds104pf15, which had a $0 amount. well there was one order for them, but there wasn't any shipped, so it had been ordered
+but because we did not have any, there was no charged amount for them, something to keep in mind for other items
+
+- should I also filter out the credit memos from all the visualizations?
+
+- atleast for the Product Line Top N Items, I think I should remove the credit memos, since I am wanting to know the invoice totals (that is
+how the amount in revenue of the products) I Can have a credit memo total in a seperate slide for the dashboard 
+
+- the first sheet, Total Revenue, is THEE total revenue, it includes all item id's, invoices, credit memos
+
+
+- I want to have a chart of the the item quantities sold, to do this, I need to have conversion factor, well, in Traverse, on the IN Item View,
+There is Unit (which is the Base Unit) and then the Weight (which is essentially the conversion factor), this doesn't work though because 
+this only gives base units, I need something that will give all the units and the conversion factors. This is a big problem and Traverse doesn't
+have any tables that will have the units of conversion on them...   I still don't have a solution to this, I don't think one is possible without
+A LOT of manual work, which I am not willing to do
+
+- Now I kind of see why Stories aren't used that much, they fuck up the formatting on the Dashboards! If I upload a dashboard, it looks good 
+and it resizes to fit the screen, the same can not be said of stories
