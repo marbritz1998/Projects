@@ -1,0 +1,111 @@
+From: Adam Smith - NOAA Federal <adam.smith@noaa.gov>
+Date: Fri, Oct 8, 2021 at 6:27 PM
+Subject: Third Quarter Update for Billion-dollar Weather and Climate Disasters
+To: Thomas Ryan - NOAA Federal <thomas.ryan@noaa.gov>
+
+
+Hi Tom,
+
+The 2021 third quarter update data for the Billion-dollar Weather and Climate Disasters is ready.
+
+Here is the link to the updated data:  https://www.ncdc.noaa.gov/billions/events-US-1980-2021.csv  
+Also, attached is the update data time-series image.
+
+Many thanks!
+Adam
+
+
+From: Adam Smith - NOAA Federal <adam.smith@noaa.gov>
+Date: Fri, Jul 9, 2021 at 4:54 PM
+Subject: Second Quarter Update for Billion-dollar Weather and Climate Disasters
+To: Thomas Ryan - NOAA Federal <thomas.ryan@noaa.gov>
+
+
+Hi Tom,
+
+The 2021 second quarter update data for the Billion-dollar Weather and Climate Disasters is ready.
+
+Here is the link to the updated data:  https://www.ncdc.noaa.gov/billions/events-US-1980-2021.csv  
+Also, attached is the update data time-series image.
+
+Many thanks!
+Adam
+
+From: Adam Smith - NOAA Federal <adam.smith@noaa.gov>
+Date: Wed, Apr 28, 2021 at 12:01 PM
+Subject: First Quarter Update for Billion-dollar Weather and Climate Disasters
+To: Thomas Ryan - NOAA Federal <thomas.ryan@noaa.gov>
+
+Hi Tom,
+
+The 2021 first quarter update data for the Billion-dollar Weather and Climate Disasters is ready.
+
+Here is the link to the updated data:  https://www.ncdc.noaa.gov/billions/events-US-1980-2021.csv 
+Also, attached is the update data time-series image with the correct filename. 
+
+Many thanks and best regards,
+Adam
+
+
+From: Adam Smith - NOAA Federal <adam.smith@noaa.gov>
+Date: Sun, Jan 10, 2021 at 3:40 PM
+Subject: Fourth Quarter Update for Billion-dollar Weather and Climate Disasters
+To: Thomas Ryan - NOAA Federal <thomas.ryan@noaa.gov>
+
+
+Hi Tom,
+The 2020 fourth quarter update data for the Billion-dollar Weather and Climate Disasters is ready.
+
+Here is the link to the updated data: https://www.ncdc.noaa.gov/billions/events-US-1980-2020.csv
+Also, attached is the update data time-series image with the correct filename. 
+Many thanks as always and happy new year.
+Best regards,
+Adam Smith 
+
+From: Adam Smith - NOAA Federal <adam.smith@noaa.gov>
+Date: Wed, Oct 7, 2020 at 5:58 PM
+Subject: Third Quarter Update for Billion-dollar Weather and Climate Disasters
+To: Thomas Ryan - NOAA Federal <thomas.ryan@noaa.gov>
+
+
+Tom,
+Good afternoon. The third quarter update data for the Billion-dollar Weather and Climate Disasters is ready.
+Here is the link to the updated data: https://www.ncdc.noaa.gov/billions/events-US-1980-2020.csvAlso, attached is the update data time-series image. 
+Hopefully, this is all you need. Many thanks as always!
+Best regards,
+Adam Smith 
+
+
+From: Adam Smith - NOAA Federal <adam.smith@noaa.gov>
+Date: Wed, Aug 12, 2020 at 11:06 AM
+Subject: Re: Second Quarter Update for Billion-dollar Weather and Climate Disasters
+To: Thomas Ryan - NOAA Federal <thomas.ryan@noaa.gov>
+
+Tom,
+
+Good morning. Attached is the second quarter update data for the newly archived 
+Billion-dollar Weather and Climate Disasters (NCEI CWC).
+Here is the link to the updated data: https://www.ncdc.noaa.gov/billions/events-US-1980-2020.csv
+Also, attached is the update data time-series image. 
+I can also send this as a fresh email to the archive if that is better.  
+Just wanted to let you know it is ready.
+
+Best regards,
+Adam Smith 
+
+From: Adam Smith - NOAA Federal <adam.smith@noaa.gov>
+Date: Thu, Apr 9, 2020 at 7:07 PM
+Subject: 2020 first quarter archive data update for Billion-dollar Weather and Climate Disasters (NCEI CWC)
+To: <NODC.DataOfficer@noaa.gov>
+Cc: Thomas Ryan - NOAA Federal <thomas.ryan@noaa.gov>
+
+
+Hi,
+
+Below are new data for the first quarter update to the Billion-dollar Weather and Climate Disasters, Accession 0209268.  
+The file we want to update the AIP with is:https://www.ncdc.noaa.gov/billions/events-US-1980-2020.csv
+Also, this is the preview graphic that we want to update:https://www.ncdc.noaa.gov/billions/time-series/ 
+[Right-click the graphic to 'view as .png.'  Then you can right-click again to save it as a .png file.]
+
+Many thanks,
+Adam
